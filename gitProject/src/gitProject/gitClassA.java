@@ -7,6 +7,8 @@ public class gitClassA {
 		System.out.println("Hallo");
 
 		System.out.println("Test One");
+		
+		System.out.println("Another Method Call!");
 	}
 
 }
