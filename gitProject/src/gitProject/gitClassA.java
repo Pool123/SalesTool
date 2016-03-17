@@ -9,6 +9,8 @@ public class gitClassA {
 		System.out.println("Test One");
 		
 		System.out.println("Another Method Call!");
+		
+		System.out.println("Do nothing");
 	}
 
 }
